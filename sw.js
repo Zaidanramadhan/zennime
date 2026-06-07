@@ -2,7 +2,7 @@ const CACHE_NAME = "zennime-cache-v1";
 
 const urlsToCache = [
   "./",
-  "./index.html",
+  "./tumbal.html",
   "./manifest.json",
   "./sw.js"
 ];
